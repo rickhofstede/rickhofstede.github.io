@@ -1,2 +1,7 @@
 User-agent: *
-Disallow:
+Disallow: /assets/screen-shot.png$
+Disallow: /script/*
+Disallow: *.md
+Disallow: *.yml
+Disallow: Gemfile
+Disallow: Rakefile
